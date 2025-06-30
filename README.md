@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunny Chauhan
 
-<!--
-**devbysunny/devbysunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Flutter & Firebase Developer  
+💼 Currently building: Doctor Booking App  
+🌱 Exploring: AI in mobile apps  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Flutter, Dart
+- Firebase (Auth, Firestore, Storage)
+- Cloudinary, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🎓 [Admission Portal] (https://github.com/devbysunny/AdmissionPortal): Complete student form + file uploads + admin dashboard  
+- 🍲 [Recipe App] (https://github.com/devbysunny/RecipeApp): Personalized recipe recommendations based on ingredients and goals  
+
+## 📈 GitHub Stats
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbysunny&show_icons=true&theme=tokyonight)
+
+## 📫 Contact Me
+- 🌐 Portfolio: [devbysunny](https://devbysunny.netlify.app/)
+- 📧 Email: chauhansunny0504@gmail.com
