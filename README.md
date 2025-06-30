@@ -11,10 +11,7 @@
 
 ## 🚀 Projects
 - 🎓 [Admission Portal] (https://github.com/devbysunny/AdmissionPortal): Complete student form + file uploads + admin dashboard  
-- 🍲 [Recipe App] (https://github.com/devbysunny/RecipeApp): Personalized recipe recommendations based on ingredients and goals  
-
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbysunny&layout=compact&theme=tokyonight)
+- 🍲 [Recipe App] (https://github.com/devbysunny/RecipeApp): Personalized recipe recommendations based on ingredients and goals 
 
 ## 📫 Contact Me
 - 🌐 Portfolio: [devbysunny](https://devbysunny.netlify.app/)
