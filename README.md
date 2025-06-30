@@ -13,8 +13,8 @@
 - 🎓 [Admission Portal] (https://github.com/devbysunny/AdmissionPortal): Complete student form + file uploads + admin dashboard  
 - 🍲 [Recipe App] (https://github.com/devbysunny/RecipeApp): Personalized recipe recommendations based on ingredients and goals  
 
-## 📈 GitHub Stats
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbysunny&show_icons=true&theme=tokyonight)
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbysunny&layout=compact&theme=tokyonight)
 
 ## 📫 Contact Me
 - 🌐 Portfolio: [devbysunny](https://devbysunny.netlify.app/)
