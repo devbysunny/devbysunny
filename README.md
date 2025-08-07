@@ -19,4 +19,4 @@
 
 ## 📫 Contact Me
 - 🌐 Portfolio: [devbysunny](https://devbysunny.netlify.app/)
-- 📧 Email: chauhansunny0504@gmail.com
+- 📧 Email: devbysunny@gmail.com
