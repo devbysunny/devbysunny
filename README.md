@@ -78,7 +78,7 @@
 >
 > A responsive portfolio website featuring smooth scroll-based navigation, project showcases, and contact forms. Built to be fast, accessible, and mobile-friendly.
 >
-> 🛠 **Stack:** *HTML5, CSS3, JavaScript*
+> 🛠 **Stack:** *Flutter, Firebase, Cloudinary*
 
 ---
 
