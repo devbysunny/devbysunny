@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=150&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbysunny&theme=tokyonight" alt="3D Stats" />
 </p>
 
 ---
