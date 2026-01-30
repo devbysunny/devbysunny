@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 - 🎯 **Focus:** Building scalable cross-platform apps with **Flutter & Firebase**.
-- 💼 **Currently Working On:** A comprehensive **Doctor Booking App**.
-- 🌱 **Learning:** Integrating **AI** into mobile experiences.
+- 💼 **Currently Building:** A comprehensive **Doctor Booking App**.
+- 🌱 **Learning:** Integrating **AI** into mobile experiences to solve real-world problems.
 - 💬 **Ask me about:** Flutter Architecture, State Management, and Backend logic.
 
 ---
@@ -31,35 +31,31 @@
 
 ### 🚀 Featured Projects
 
-#### 🛡️ [Orbit Shield](https://github.com/devbysunny/orbit_shield)
+#### 🛡️ [Orbit Shield](https://github.com/Sunny116919/Orbit-shield)
 > **Advanced Parental Control System**
 >
-> A dual-app ecosystem (Parent/Child) ensuring digital safety. Features real-time background monitoring, live location tracking, and remote app blocking.
+> A comprehensive ecosystem built with Flutter that empowers parents to safeguard their children's digital experience. Seamlessly connecting separate Parent and Child applications, it features real-time background monitoring, live location tracking, remote app blocking, and SOS alerts.
 >
 > 🛠 **Stack:** *Flutter, Firebase (Firestore, Auth), Google Maps API, Background Services*
 
 #### 🤖 [AI Recipe App](https://github.com/devbysunny/ai_recipe_app)
 > **Smart Cooking Assistant**
 >
-> AI-powered app that generates personalized meals and step-by-step cooking instructions from your available ingredients using natural language input.
+> An intelligent mobile application that turns available ingredients into delicious recipes using the OpenAI API. It generates personalized meals with titles, descriptions, and step-by-step instructions using natural language input.
 >
-> 🛠 **Stack:** *Flutter, OpenAI API, REST APIs*
-
-#### 🎓 [Admission Portal](https://github.com/devbysunny/AdmissionPortal)
-> **Digital Enrollment System**
->
-> Complete student admission solution featuring multi-step forms, document uploads, and a robust admin dashboard for application management.
+> 🛠 **Stack:** *Flutter, OpenAI API, REST APIs, Provider*
 
 ---
 
-### 📂 More Projects
+### 📂 Other Notable Projects
 
 | Project | Description |
 | :--- | :--- |
-| 🍲 **[Recipe App](https://github.com/devbysunny/RecipeApp)** | Personalized recipe recommendations based on dietary goals. |
-| 🏋️‍♂️ **[Daily Exercise](https://github.com/devbysunny/daily_exercise_schedule_app)** | Workout planner with visual timelines and progress tracking. |
-| 🚌 **[Bus Pass System](https://github.com/devbysunny/mu_bus_pass)** | University transport management for digital pass verification. |
-| 🌐 **[Portfolio Site](https://github.com/devbysunny/portfolio_website)** | Responsive personal website with smooth scroll-based navigation. |
+| 🎓 **[Admission Portal](https://github.com/devbysunny/AdmissionPortal)** | Complete student enrollment system with multi-step forms, file uploads, and a robust admin dashboard. |
+| 🍲 **[Recipe App](https://github.com/devbysunny/RecipeApp)** | A personalized recipe recommendation engine that suggests meals based on your specific ingredients and dietary goals. |
+| 🏋️‍♂️ **[Daily Exercise App](https://github.com/devbysunny/daily_exercise_schedule_app)** | A workout planner to track and visualize daily routines with time-scheduled exercises and progress checkboxes. |
+| 🚌 **[Bus Pass System](https://github.com/devbysunny/mu_bus_pass)** | Digital bus pass management app for university transport using Flutter and Firebase for verification. |
+| 🌐 **[Portfolio Website](https://github.com/devbysunny/portfolio_website)** | Responsive personal website with smooth scroll-based navigation, built using HTML, CSS, and JavaScript. |
 
 ---
 
