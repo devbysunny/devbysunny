@@ -82,16 +82,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbysunny&show_icons=true&theme=tokyonight&hide_border=true" alt="Sunny's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devbysunny&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbysunny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbysunny&theme=tokyonight&hide_border=true" alt="Sunny's Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
