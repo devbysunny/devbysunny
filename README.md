@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - 🎯 **Focus:** Building scalable cross-platform apps with **Flutter & Firebase**.
 - 💼 **Currently Building:** A comprehensive **Doctor Booking App**.
-- 🌱 **Learning:** Integrating **AI** into mobile experiences to solve real-world problems.
+- 🌱 **Learning:** Integrating **AI** into mobile experiences.
 - 💬 **Ask me about:** Flutter Architecture, State Management, and Backend logic.
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 #### 🛡️ [Orbit Shield](https://github.com/Sunny116919/Orbit-shield)
 > **Advanced Parental Control System**
@@ -45,17 +45,40 @@
 >
 > 🛠 **Stack:** *Flutter, OpenAI API, REST APIs, Provider*
 
----
+#### 🎓 [Admission Portal](https://github.com/devbysunny/AdmissionPortal)
+> **Digital Enrollment System**
+>
+> A complete student admission solution featuring complex multi-step forms, document/file uploads, and a robust admin dashboard for managing applications and student data.
+>
+> 🛠 **Stack:** *Flutter, Firebase Storage, Admin Panel Logic*
 
-### 📂 Other Notable Projects
+#### 🍲 [Recipe App](https://github.com/devbysunny/RecipeApp)
+> **Personalized Meal Finder**
+>
+> A recipe recommendation engine that suggests meals based on your specific ingredients and dietary goals. Helps users reduce food waste by finding creative ways to use what they already have.
+>
+> 🛠 **Stack:** *Flutter, Dart, REST API Integration*
 
-| Project | Description |
-| :--- | :--- |
-| 🎓 **[Admission Portal](https://github.com/devbysunny/AdmissionPortal)** | Complete student enrollment system with multi-step forms, file uploads, and a robust admin dashboard. |
-| 🍲 **[Recipe App](https://github.com/devbysunny/RecipeApp)** | A personalized recipe recommendation engine that suggests meals based on your specific ingredients and dietary goals. |
-| 🏋️‍♂️ **[Daily Exercise App](https://github.com/devbysunny/daily_exercise_schedule_app)** | A workout planner to track and visualize daily routines with time-scheduled exercises and progress checkboxes. |
-| 🚌 **[Bus Pass System](https://github.com/devbysunny/mu_bus_pass)** | Digital bus pass management app for university transport using Flutter and Firebase for verification. |
-| 🌐 **[Portfolio Website](https://github.com/devbysunny/portfolio_website)** | Responsive personal website with smooth scroll-based navigation, built using HTML, CSS, and JavaScript. |
+#### 🏋️‍♂️ [Daily Exercise App](https://github.com/devbysunny/daily_exercise_schedule_app)
+> **Workout Planner & Tracker**
+>
+> A fitness application to plan, track, and visualize daily workout routines. Features time-scheduled exercises, progress checkboxes, and a visual timeline for daily fitness management.
+>
+> 🛠 **Stack:** *Flutter, Local Storage, UI/UX Design*
+
+#### 🚌 [Bus Pass System](https://github.com/devbysunny/mu_bus_pass)
+> **University Transport Manager**
+>
+> A digital bus pass management app designed for university transport. It handles student verification, digital pass generation, and secure data storage using Firebase.
+>
+> 🛠 **Stack:** *Flutter, Firebase Auth, Cloud Firestore*
+
+#### 🌐 [Portfolio Website](https://github.com/devbysunny/portfolio_website)
+> **Personal Developer Showcase**
+>
+> A responsive portfolio website featuring smooth scroll-based navigation, project showcases, and contact forms. Built to be fast, accessible, and mobile-friendly.
+>
+> 🛠 **Stack:** *HTML5, CSS3, JavaScript*
 
 ---
 
