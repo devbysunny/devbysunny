@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=150&section=footer" width="100%" alt="Footer Wave" />
 </p>
 
 ---
