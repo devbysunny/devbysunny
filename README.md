@@ -82,15 +82,6 @@
 
 ---
 
-### ⚡ Coding Journey
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbysunny&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbysunny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
